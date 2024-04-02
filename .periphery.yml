@@ -1,0 +1,7 @@
+project: BindingInViewModifierTest.xcodeproj
+
+schemes:
+  - BindingInViewModifierTest
+
+targets:
+  - BindingInViewModifierTest
